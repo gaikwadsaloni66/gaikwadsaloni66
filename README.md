@@ -15,7 +15,7 @@
 🌱 Currently learning **Spring Boot, Spring MVC, Spring Data JPA**  
 🚀 Strong interest in **Backend Development & System Design**  
 🎯 Goal: Become a professional **Full Stack Java Developer**  
-⚡ Fun fact: I enjoy writing clean and optimized code  
+⚡ Fun fact: I enjoy writing clean, optimized, and scalable code  
 
 ---
 
@@ -32,7 +32,7 @@
 ## 🚀 Featured Project
 
 ### 🧑‍💼 Employee Management System
-✨ Spring Core + JSP (No Database)  
+✨ Built using Spring Core + JSP (No Database)  
 ✨ Dependency Injection & MVC Architecture  
 ✨ Employee Salary Calculation (HRA, DA, Bonus, PF)  
 ✨ Dynamic UI using JSP & JSTL  
@@ -65,6 +65,14 @@
 <p align="center">
   <a href="https://github.com/salonigaikwad66">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/saloni-gaikwad-332b233a5">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:gaikwadsaloni67@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
