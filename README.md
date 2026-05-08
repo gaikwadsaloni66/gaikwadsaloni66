@@ -1,62 +1,75 @@
-<h1 align="center">Hi 👋, I'm Saloni Gaikwad</h1>
-<h3 align="center">Java Full Stack Developer | Spring Core Enthusiast | Problem Solver</h3>
+<h1 align="center">✨ Hi, I'm Saloni Gaikwad ✨</h1>
+<h3 align="center">🚀 Java Full Stack Developer | Spring Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Spring-Core-green?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 🌟 About Me
 
-- 💻 Passionate Java Developer
-- 🌱 Currently learning **Spring Boot, Spring MVC, Spring Data JPA**
-- 🔍 Strong interest in **Backend Development**
-- 🎯 Goal: Become a professional **Full Stack Java Developer**
-- ⚡ I enjoy solving coding problems and building real-world projects
+💻 Passionate Java Developer who loves building real-world applications  
+🌱 Currently learning **Spring Boot, Spring MVC, Spring Data JPA**  
+🚀 Strong interest in **Backend Development & System Design**  
+🎯 Goal: Become a professional **Full Stack Java Developer**  
+⚡ Fun fact: I enjoy writing clean and optimized code  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,mysql,git,github,eclipse,idea"/>
 
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### 🧑‍💼 Employee Management System
-- Built using **Spring Core + JSP**
-- No database (uses in-memory storage)
-- Implements **Dependency Injection & MVC architecture**
-- Performs salary calculations (HRA, DA, Bonus, PF)
-- Dynamic UI using JSP & JSTL
+✨ Spring Core + JSP (No Database)  
+✨ Dependency Injection & MVC Architecture  
+✨ Employee Salary Calculation (HRA, DA, Bonus, PF)  
+✨ Dynamic UI using JSP & JSTL  
+✨ Lightweight in-memory data handling  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salonigaikwad66&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salonigaikwad66&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonigaikwad66&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salonigaikwad66&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🧠 Coding Vibes
 
-- 👤 GitHub: https://github.com/salonigaikwad66  
-- 💼 LinkedIn: www.linkedin.com/in/saloni-gaikwad-332b233a5 
-- 📧 Email: gaikwadsaloni67@gmail.com
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
-⭐️ Thank you for visiting my profile!
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/salonigaikwad66">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ “Code. Learn. Build. Repeat.” ⭐
+</p>
